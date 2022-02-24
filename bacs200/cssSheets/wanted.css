@@ -1,8 +1,24 @@
-:root{
-	--main-background-color:grey;
+*{
+	background-color:#B0C0CC;
+	border:#D1B5B5 1px solid;
+	text-align:center;
+	color:#300E70
+	
 }
+
 header{
 	border-top: 1px solid gray;
-	background-color: (--main-background-color)
+	font-size:200%;
 }
+.wanted{
+	font-size:300%;
+	
+}
+main{
+
+}
+footer{
+
+}
+
 
