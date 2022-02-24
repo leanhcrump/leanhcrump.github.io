@@ -1,0 +1,8 @@
+:root{
+	--main-background-color:grey;
+}
+header{
+	border-top: 1px solid gray;
+	background-color: (--main-background-color)
+}
+
