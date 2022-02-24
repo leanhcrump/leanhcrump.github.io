@@ -16,6 +16,10 @@ header{
 	font-size:300%;
 	
 }
+ul{
+	text-align: center;
+
+}
 #wantedlist::selection{
 	background:whitesmoke
 }
