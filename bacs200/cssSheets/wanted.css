@@ -1,8 +1,9 @@
-*{
+body{
 	background-color:#B0C0CC;
-	border:#D1B5B5 1px solid;
+	/* border:#D1B5B5 1px solid;*/
 	text-align:center;
-	color:#300E70
+	color:#300E70;
+	list-style-position:inside;		
 	
 }
 
@@ -14,11 +15,17 @@ header{
 	font-size:300%;
 	
 }
-main{
+#wantedlist{
+	
 
 }
 footer{
+	font-size:60%;
+	background-color:#B0C0CC
 
+}
+h1{
+	border-bottom-color: 100px solid antiquewhite ;
 }
 
 
