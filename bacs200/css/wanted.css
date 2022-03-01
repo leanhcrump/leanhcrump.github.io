@@ -3,25 +3,30 @@ body{
 	/* border:#D1B5B5 1px solid;*/
 	text-align:center;
 	color:#300E70;
-	list-style-position:inside;		
+	list-style-position:inside;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif		
 	
 }
 
 header{
-	border-top: 1px solid gray;
+	border-bottom: 5px solid gray;
 	font-size:200%;
 }
 .wanted{
 	font-size:300%;
 	
 }
-#wantedlist{
-	
+ul{
+	text-align: center;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
+}
+#wantedlist::selection{
+	background:whitesmoke
 }
 footer{
 	font-size:60%;
-	background-color:#B0C0CC
+	background-color:#a2afb9
 
 }
 h1{
