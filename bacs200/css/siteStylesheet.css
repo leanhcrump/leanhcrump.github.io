@@ -1,4 +1,9 @@
 *{
-	
+	font-family: 'Prompt'; 
+		src:url("Prompt fonts/Prompt-Thin.ttf")format('truetype');
+}
+label
+{
+	font-family:'Prompt';
 }
 
