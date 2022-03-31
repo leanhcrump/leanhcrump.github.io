@@ -1,8 +1,25 @@
+<<<<<<< HEAD
 @font-face{
 	font-family: 'Prompt'; 
 		src:url("Prompt fonts/Prompt-Thin.ttf")format('truetype');
 }
 *{
 	font-family:'prompt'
+=======
+@font-face {
+	font-family:"Prompt";
+	src:url("Prompt fonts/Prompt-Thin.ttf")format("truetype");
+}
+*
+{
+	font-family:"Prompt";
+}
+h1{
+	font-size:xx-large;
+	font-weight: bolder;
+>>>>>>> 907730e80e412603fc73e1c4d0970ce1b15bf731
 }
 
+h3{
+	font-weight: bold;
+}
