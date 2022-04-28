@@ -1,9 +1,28 @@
 @font-face {
 	font-family:"Prompt";
-	src:url("https://leanhcrump.github.io/bacs200/css/Promptfonts/siteStylesheet.css")format("truetype");
+	src:url("https://leanhcrump.github.io/bacs200/css/Promptfonts/Prompt-LightItalic.ttf")format("truetype");
 }
 *
 {
 	font-family:"Prompt";
-}/* CSS Document */
+	font-size:15pt;
+}
+main
+{
+	align-items: center;
+}
+head
+{
+	font-size:50pt;
+}
+p
+{
+	border-bottom: thin;
+	border-bottom-color: gray
+}
+h2
+{
+	font-size: 20;
+}
+/* CSS Document */
 
