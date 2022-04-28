@@ -1,0 +1,9 @@
+@font-face {
+	font-family:"Prompt";
+	src:url("https://leanhcrump.github.io/bacs200/css/Promptfonts/siteStylesheet.css")format("truetype");
+}
+*
+{
+	font-family:"Prompt";
+}/* CSS Document */
+
